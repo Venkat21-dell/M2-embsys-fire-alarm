@@ -41,10 +41,8 @@ SimulIDE
 
 Visual Studio
 
-Cost and Features
-
+Cost and Features-
 Depending upon the project how well it is built and all the requirements will meet the cost and it can be varied according to the market.
-
 It can sense the fire and gives a security alarm to prevent fire accidents
 
 

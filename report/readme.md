@@ -95,7 +95,9 @@ HLR_8	Sensor	Implemented
 
 
 
+
 Low Level Requirements
+
 ID	Description	Status
 
 LLR_1	ATmega328	Implemented

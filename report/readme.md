@@ -60,26 +60,46 @@ Detail requirements
 High Level Requirements
 
 ID	Description	Status
+
 HLR_1	Microcontroller	Implemented
+
 HLR_2	Servo motor	Implemented
+
 HLR_3	Buzzer	Implemented
+
 HLR_4	Resistor	Implemented
+
 HLR_5	Capacitor	Implemented
+
 HLR_6	Button	Implemented
+
 HLR_7	AVR-ISP PROGRAMMER	Implemented
+
 HLR_8	Sensor	Implemented
+
 
 
 Low Level Requirements
 ID	Description	Status
+
 LLR_1	ATmega328	Implemented
+
 LLR_2	Servo motor (sg90)	Implemented
+
 LLR_3	10KΩ resistor	Implemented
+
 LLR_4	1KΩ resistor	Implemented
+
 LLR_5	220Ω resistor	Implemented
+
 LLR_6	100nF capacitor	Implemented
+
 LLR_7	1000u capacitor	Implemented
+
 LLR_7	AVR-ISP PROGRAMMER	Implemented
+
 LLR_8	Buzzer	Implemented
+
 LLR_9	Button	Implemented
+
 LLR_10	Fire sensor	Implemented

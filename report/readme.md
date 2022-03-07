@@ -31,27 +31,43 @@ It can sense the fire and gives a security alarm to prevent fire accidents
 
 SWOT Analysis
 
+
 Strengths
+
 Cost Advantage.
+
 It can prevent from fire accidents
+
 Threats
+
 Advanced featured fire alram systems are already in the market.
+
 Decreasing Market Demand
+
 
 4W's and 1 H's
 
 Why:
+
 To reduce the fire accidents in House and Industries.
 It can be used at one place.
+
 Where:
+
 This can be used in our Houses.
 We can use it in the Banks, Industies, Shopping Malls etc.
+
 Who:
+
 Can be used as a reference for advanced Fire alarm systems.
+
 When:
+
 When fire accidents is going to occur these alarm systems can be used.
 This project is used to prevent people from fire accidents.
+
 How:
+
 It sense the fire and gives an alarm sound as an output.
 It will be helpful in preventing fire accidents in any places.
 

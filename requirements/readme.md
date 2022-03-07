@@ -14,20 +14,35 @@ IR Based Fire sensors have lesser sensing vision, so we are going to mount the f
 Components used
 
 +5v power supply
+
 Servo motor (sg90)
+
 ATMEGA328 BUZZER
+
 Button
+
 10KΩ resistor
+
 1KΩ resistor
+
 220Ω resistor
+
 100nF capacitor
+
 1000u capacitor
+
 AVR-ISP PROGRAMMER
-Fire sesnor
+
+Fire sensor
+
 Software Used
+
 SimulIDE
+
 Visual Studio
+
 Cost and Features
+
 Depending upon the project how well it is built and all the requirements will meet the cost and it can be varied according to the market.
 
 It can sense the fire and gives a security alarm to prevent fire accidents

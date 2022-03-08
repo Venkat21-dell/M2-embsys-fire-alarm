@@ -12,18 +12,18 @@ Badges
 
 ![image](https://user-images.githubusercontent.com/98867796/156989189-f560954b-44e9-4a3b-b2b5-6b2f20729176.png)
 
-   Folder	     Description
+   Folder	     Description - for project
    
-1_Requirements -	 Documents detailing requirements and research
+Requirements -	 Documents detailing requirements and research
 
-2_Design	-       Documents specifying design details
+Design	-       Documents specifying design details
 
-3_Implementation  - 	All code and documentation
+Implementation  - 	All code and documentation
 
-4_Test_plan	  -  Documents with test plans and procedures
+Test_plan	  -  Documents with test plans and procedures
 
-5_Report	    -  Documentation of whole project
+Report	    -  Documentation of whole project
 
-6_Images	   -    All the output images of this project
+Images	   -    All the output images of this project
 
 
